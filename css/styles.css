@@ -29,3 +29,35 @@ body {
 .logo {
 	width: 100%;
 }
+
+#html-css {
+	width: 60%;
+}
+
+#c {
+	width: 30%;
+}
+
+#python {
+	width: 70%;
+}
+
+#flask {
+	width: 60%;
+}
+
+#javascript {
+	width: 30%;
+}
+
+#jquery {
+	width: 10%;
+}
+
+#postgresql {
+	width: 40%;
+}
+
+.education h6 {
+	text-indent: 8%;
+}
