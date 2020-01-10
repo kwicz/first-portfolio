@@ -1,0 +1,13 @@
+.container-fluid {
+	margin: 20px;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+.jumbotron img {
+  width: 200px;
+  height: 300px;
+  border-radius: 50%;
+}
