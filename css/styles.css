@@ -15,3 +15,13 @@ body {
   height: 300px;
   border-radius: 50%;
 }
+
+.projects img {
+  width: 400px;
+  height: 200px;
+  float: right;
+}
+
+.projects ul {
+	list-style: none;
+}
