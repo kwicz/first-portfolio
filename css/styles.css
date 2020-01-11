@@ -70,3 +70,11 @@ body {
 .coursework p {
 	text-indent: 8%;
 }
+
+.social img {
+	width: 40px;
+}
+
+.social {
+	text-align: center;
+}
