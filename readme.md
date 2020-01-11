@@ -8,7 +8,7 @@
 
 _Keep track of ongoing projects, job positions, volunteer roles, hobbies, technical skills, and education._
 
-_See it in action at: _
+_See it in action at: https://kwicz.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
