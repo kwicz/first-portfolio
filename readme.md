@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _My personal portfolio., Jan 2020_
+#### _My personal portfolio. Jan 2020._
 
 #### By _**Katy Solovewicz**_
 

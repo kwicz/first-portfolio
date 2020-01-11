@@ -18,15 +18,21 @@ body {
 
 .projects img {
   width: 75%;
-  float: right;
 }
 
 .source {
   text-align: center;
 }
 
+.work {
+	text-align: center;
+	display: inline-block;
+}
+
 .logo {
-	width: 100%;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 #html-css {
@@ -57,10 +63,10 @@ body {
 	width: 40%;
 }
 
-.education h6 {
+.education p {
 	text-indent: 8%;
 }
 
-.coursework h6 {
+.coursework p {
 	text-indent: 8%;
 }
