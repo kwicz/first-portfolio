@@ -1,6 +1,7 @@
 body {
-  background-color: #CC99A1;
+background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
 }
+
 
 .container-fluid {
   margin: 20px;
